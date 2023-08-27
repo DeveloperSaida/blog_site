@@ -1,1 +1,1 @@
-# blog_site
+Ushbu repozitoriyda pythonda yozilgan blog site kodlari bor.
